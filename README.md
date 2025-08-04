@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me : hiradjahangirfard@gmail.com via email
 - 😄 Pronouns: He/Him
+- 🟪 I code C# (.NET)
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- - ⚡ Fun fact: ... --->
 
