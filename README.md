@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HiradJF
 - 👀 I’m interested in programming and game development
-- 🌱 I’m currently learning python
+<!--- - 🌱 I’m currently learning: ...--->
 - 📫 How to reach me : hiradjahangirfard@gmail.com via email
 - 😄 Pronouns: He/Him
 - 🟪 I code C# (.NET CORE) and Python3 (CPython) and C++ (std C++26/23/20)
